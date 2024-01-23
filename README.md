@@ -1,3 +1,4 @@
+影片:https://www.youtube.com/watch?v=Kl1j2GjhaRA
 1.官網下載 Office Deployment Tool
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
 配置config文件
